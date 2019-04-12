@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<GroundOverlay id="0">
+	<name>sum 17 tram fs 50 50 ( 2.3  1.8) (DVB-T2 Fixed, Coverage probability)</name>
+	<Snippet maxLines="0"></Snippet>
+	<color>70ffffff</color>
+	<drawOrder>1000</drawOrder>
+	<Icon>
+		<href>C:/Users/HEADEND-SMD/AppData/LocalLow/Google/GoogleEarth/Layer0_113.png</href>
+	</Icon>
+	<LatLonBox>
+		<north>13.4152326580407</north>
+		<south>7.251198263971407</south>
+		<east>109.1245815998777</east>
+		<west>102.9936557704342</west>
+	</LatLonBox>
+</GroundOverlay>
+</kml>
