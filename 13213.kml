@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<GroundOverlay id="0">
+	<name>18 tram add binh thuan toa do moi (DVB-T2 Fixed, Coverage probability)</name>
+	<Snippet maxLines="0"></Snippet>
+	<drawOrder>1000</drawOrder>
+	<Icon>
+		<href>C:/Users/HEADEND-SMD/AppData/LocalLow/Google/GoogleEarth/Layer0_120.png</href>
+	</Icon>
+	<LatLonBox>
+		<north>13.41606370978325</north>
+		<south>7.242056635631879</south>
+		<east>110.111585389594</east>
+		<west>102.9039281531873</west>
+	</LatLonBox>
+</GroundOverlay>
+</kml>
